@@ -1,0 +1,40 @@
+/* Font Icon CDN */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+
+/* Font Family CDN */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  /* Font Family */
+  --primary-kr: "Noto Sans KR", sans-serif;
+  --primary-en: "Roboto", sans-serif;
+  --logo-en: "Cormorant Garamond", serif;
+
+  /* Text Color */
+  --dark-black: #333333;
+  --light-black: #555555;
+  --dark-gray: #777777;
+  --light-gray: #999999;
+  --silver-gray: #C0C0C0;
+  --gloudy-gray: #EEEEEE;
+
+  /* Object Color */
+  --purple: #8466DE;
+  --crimson: #F56A2C;
+  --black: #202021;
+  --silver: #EDEEF0;
+  --snow: #FCFCFD;
+  --navy: #022738;
+  --beige: #EEEDE7;
+  --blue: #2C52FF;
+  --peach: #FEF2EB;
+  --stainless: #D3D3D3;
+  --gold: #F5B15B;
+
+  /* For Big Size Mobile & Tablet Device */
+  --slide-basis: 375px;
+}
